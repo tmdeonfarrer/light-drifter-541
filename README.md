@@ -1,0 +1,30 @@
+# light-drifter-541
+
+Vinyl records and Python, coffee powered.
+
+拿来练手的小仓库
+
+## 用法
+
+```bash
+cat data.txt | python main.py
+```
+
+输出：
+
+```
+   3  error: timeout
+   1  warn: retry
+---
+2 unique / 4 lines
+```
+
+## 待办
+
+- [ ] 写清楚用法
+- [ ] 补点边界情况测试
+- [ ] 补点测试
+
+## License
+
+MIT
